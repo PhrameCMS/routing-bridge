@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7331678cf888adef3b5416c8dbf46021",
+    "content-hash": "debd874f22d602f4aee728fd74b5044b",
     "packages": [
         {
             "name": "phramecms/core",
@@ -19,7 +19,7 @@
                 "phramecms/dependency-injection-bridge": "dev-main",
                 "phramecms/dotenv-bridge": "dev-main",
                 "phramecms/http-foundation-bridge": "dev-main",
-                "phramecms/routing-bridge-symfony": "dev-main",
+                "phramecms/routing-bridge": "dev-main",
                 "psr/container": "^2.0"
             },
             "require-dev": {
